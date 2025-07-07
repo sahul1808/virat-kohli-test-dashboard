@@ -59,7 +59,7 @@ Data was manually collected and cleaned from ESPN Cricinfo. Future versions may 
 
 virat-kohli-test-dashboard/
 ├── images/              # Dashboard screenshots
-│   └── dashboard.png    # Example output image
+│   └── dashboard.png    # ![Virat Kohli Test Series Dashboard](https://github.com/user-attachments/assets/34d8d37b-b2c3-42c5-b93a-5c2e827c634a)
 ├── data/                # Cleaned data files (CSV/Excel)
 │   └── virat_kohli_test_data.xlsx
 ├── scripts/             # Python scripts for data scraping and cleaning
